@@ -14,12 +14,12 @@ This project is a simple CRUD (Create, Read, Update, Delete) API built with GoLa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/golang-crud-api.git
-   cd golang-crud-api
+   git clone https://github.com/Raghav-Verma/GoApi.git
+   cd go-crud
 
 2. Install dependencies:
    ```bash
-   go mod tidy
+   go mod init
 
 3. Run the application:
    ```bash
